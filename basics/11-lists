@@ -1,6 +1,6 @@
 #!/bin/bash
-ls -a
+ls -la
 cd ..
-ls -a
+ls -la
 cd /boot
-ls -a
+ls -la
