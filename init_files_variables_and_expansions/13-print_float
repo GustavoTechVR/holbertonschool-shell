@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($NUM="%.2f\n" ${valor_num:-0.00}
+printf "%.2f\n" "$NUM"
